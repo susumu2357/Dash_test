@@ -21,6 +21,9 @@ smart-open = "*"
 [packages]
 dash = "*"
 gunicorn = "*"
+pandas = "*"
+networkx = "*"
+numpy = "*"
 
 [requires]
 python_version = "3.6"
