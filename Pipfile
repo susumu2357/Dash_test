@@ -4,6 +4,19 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+jupyter = "*"
+nltk = "*"
+gensim = "*"
+pandas = "*"
+numpy = "*"
+networkx = "*"
+scikit-learn = "*"
+scipy = "*"
+gsutil = "*"
+pybind11 = "*"
+94cd631 = {path = "./fastText"}
+pyemd = "*"
+smart-open = "*"
 
 [packages]
 dash = "*"
